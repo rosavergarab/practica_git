@@ -1,4 +1,4 @@
-var precio=200000;
+var precio=300000;
 var cantidad=3;
 var smlv=877803;
 var total_venta=precio * cantidad;

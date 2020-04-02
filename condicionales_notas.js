@@ -1,4 +1,4 @@
-var nota1=1.5;
+var nota1=1.8;
 var nota2=2.2;
 var nota_def=(nota1+nota2)/2
 
