@@ -1,4 +1,4 @@
-var num_hora_trab=30;
+var num_hora_trab=40;
 var valor_hora=5000;
 var incremento=0.5;
 var val_extra=valor_hora*(1+incremento);
